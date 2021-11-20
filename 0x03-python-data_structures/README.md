@@ -1,10 +1,10 @@
 ## 0x03. Python - Data Structures: Lists, Tuples
 
 ## Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+.At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 ## General
-Why Python programming is awesome
+.Why Python programming is awesome
 What are lists and how to use them
 What are the differences and similarities between strings and lists
 What are the most common methods of lists and how to use them
