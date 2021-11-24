@@ -6,7 +6,7 @@ tests: Folder of test files. Provided by Holberton School.
 Function Prototypes 💾
 Prototypes for functions written in this project:
 
-## File	## Prototype
+## File Prototype
 0-square_matrix_simple.py	def square_matrix_simple(matrix=[]):
 1-search_replace.py	def search_replace(my_list, search, replace):
 2-uniq_add.py	def uniq_add(my_list=[]):
@@ -29,14 +29,16 @@ void print_python_bytes(PyObject *p);
 ## Tasks 📃
 0. Squared simple
 
-0-square_matrix_simple.py: Python function that computes the square value of all integers of a matrix.
+0-square_matrix_simple.py:
+Python function that computes the square value of all integers of a matrix.
 The parameter matrix is a two-dimensional array.
 Returns a matrix of the same size as matrix where each value is the square of the input value.
 The initial matrix is not modified.
 Without importing modules.
 1. Search and replace
 
-1-search_replace.py: Python function that replaces all occurences of an element by another in a new list.
+1-search_replace.py:
+*Python function that replaces all occurences of an element by another in a new list.
 The parameter my_list is the initial list.
 The parameter search is the element to replace in the list.
 The parameter replace is the new element.
